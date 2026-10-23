@@ -33,4 +33,3 @@ Repository Structure
 - `design-files/` — Figma design details
 - `case-study/` — Case study and report
 - `documentation/` — Project documentation
-- `assets/` — Supporting assets, if needed
